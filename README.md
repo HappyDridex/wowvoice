@@ -17,26 +17,24 @@
 | Classic Era | 1.15.x | 11509 |
 | The Burning Crusade | 2.4.3 | 20400 |
 | Wrath of the Lich King | 3.3.5a | 30300 |
+| Mists of Pandaria | 5.4.8 | 50400 |
 
-> MoP 5.4.8 и Midnight (retail) — в работе.
+> Midnight (retail) — в работе.
 
-## Установка
+## Как установить
 
-1. Скачай ZIP своей версии игры из [Releases](https://github.com/HappyDridex/wowvoice/releases):
-   - `WowVoice-classic-1.15.zip` — **Classic / ваниль**
-   - `WowVoice-bc-2.4.3.zip` — **Burning Crusade**
-   - `WowVoice-wotlk-3.3.5.zip` — **Wrath of the Lich King**
-2. Распакуй архив.
-3. Скопируй **обе** папки — `WowVoice` и `WowVoiceSounds` — в `Interface\AddOns\` твоего клиента.
-   ⚠️ Обе папки лежат **рядом друг с другом** прямо в `AddOns` (одна НЕ внутри другой):
-   - `...\Interface\AddOns\WowVoice\`
-   - `...\Interface\AddOns\WowVoiceSounds\`
-4. Полностью перезапусти игру.
-5. На экране выбора персонажа нажми **AddOns** (внизу слева):
-   - обязательно поставь галочку **«Загружать устаревшие аддоны» / «Load out of date AddOns»**;
-   - проверь, что оба аддона включены.
+1. **Скачай** архив своей игры из [Releases](https://github.com/HappyDridex/wowvoice/releases):
+   - Classic (ваниль) → `WowVoice-classic-1.15.zip`
+   - Burning Crusade → `WowVoice-bc-2.4.3.zip`
+   - Lich King (WotLK) → `WowVoice-wotlk-3.3.5.zip`
+   - Пандария (MoP) → `part1of2.zip` **и** `part2of2.zip` (оба)
+2. **Распакуй.** Внутри — две папки: **WowVoice** и **WowVoiceSounds**.
+3. **Скопируй обе папки** в `…\World of Warcraft\…\Interface\AddOns\`.
+4. **Запусти игру.** На выборе персонажа → **AddOns** (внизу слева) → галочка **«Load out of date AddOns»** → включи оба аддона.
 
-Возьми квест — озвучка запустится сама.
+Бери квест — озвучка заговорит сама. 🎧
+
+<sub>🐼 Пандария идёт двумя файлами (иначе не влезает в лимит GitHub). Распакуй оба; папки `WowVoiceSounds` из обоих слей в одну — Windows спросит «Объединить папки?», жми **Да**.</sub>
 
 ## Поддержать
 
