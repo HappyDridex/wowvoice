@@ -27,14 +27,12 @@
    - Classic (ваниль) → `WowVoice-classic-1.15.zip`
    - Burning Crusade → `WowVoice-bc-2.4.3.zip`
    - Lich King (WotLK) → `WowVoice-wotlk-3.3.5.zip`
-   - Пандария (MoP) → `part1of2.zip` **и** `part2of2.zip` (оба)
+   - Пандария (MoP) → скачай **оба**: в `part1of2.zip` — папки `WowVoice` + `WowVoiceSounds` (первая половина озвучки), в `part2of2.zip` — только `WowVoiceSounds` (вторая половина). Оба распаковываются в `Interface\AddOns`, папки `WowVoiceSounds` **сливаются в одну** (Windows спросит «Объединить?» — жми **Да**).
 2. **Распакуй.** Внутри — две папки: **WowVoice** и **WowVoiceSounds**.
 3. **Скопируй обе папки** в `…\World of Warcraft\…\Interface\AddOns\`.
 4. **Запусти игру.** На выборе персонажа → **AddOns** (внизу слева) → галочка **«Load out of date AddOns»** → включи оба аддона.
 
 Бери квест — озвучка заговорит сама. 🎧
-
-<sub>🐼 Пандария идёт двумя файлами (иначе не влезает в лимит GitHub). Распакуй оба; папки `WowVoiceSounds` из обоих слей в одну — Windows спросит «Объединить папки?», жми **Да**.</sub>
 
 ## Поддержать
 
