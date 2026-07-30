@@ -8,18 +8,7 @@
 
 🎧 **Демо голосов:** https://www.youtube.com/watch?v=tivX-oaVBW4
 
-## Скачать
-
-Готовые сборки — в разделе [**Releases**](https://github.com/HappyDridex/wowvoice/releases).
-
-| Эпоха | Клиент | Interface |
-|---|---|---|
-| Classic Era | 1.15.x | 11509 |
-| The Burning Crusade | 2.4.3 | 20400 |
-| Wrath of the Lich King | 3.3.5a | 30300 |
-| Mists of Pandaria | 5.4.8 | 50400 |
-
-> Midnight (retail) — в работе.
+Скачать — в разделе [**Releases**](https://github.com/HappyDridex/wowvoice/releases).
 
 ## Как установить
 
@@ -30,11 +19,11 @@
    - Пандария (MoP) → скачай **оба**: в `part1of2.zip` — папки `WowVoice` + `WowVoiceSounds` (первая половина озвучки), в `part2of2.zip` — только `WowVoiceSounds` (вторая половина). Оба распаковываются в `Interface\AddOns`, папки `WowVoiceSounds` **сливаются в одну** (Windows спросит «Объединить?» — жми **Да**).
 2. **Распакуй.** Внутри — две папки: **WowVoice** и **WowVoiceSounds**.
 3. **Скопируй обе папки** — `WowVoice` и `WowVoiceSounds` — в `…\World of Warcraft\…\Interface\AddOns\`.
-   ⚠️ Обе папки лежат **рядом**, прямо в `AddOns` (одна НЕ внутри другой!):
+   Должно получиться так:
    - `…\Interface\AddOns\WowVoice\`
    - `…\Interface\AddOns\WowVoiceSounds\`
 4. **Запусти игру.** На экране выбора персонажа → **AddOns** (внизу слева):
-   - ⚠️ **ОБЯЗАТЕЛЬНО** поставь галочку **«Load out of date AddOns» / «Загружать устаревшие аддоны»** — **без неё озвучка НЕ включится**;
+   - поставь галочку **«Load out of date AddOns» / «Загружать устаревшие аддоны»** — без неё озвучка не включится;
    - убедись, что оба аддона включены.
 
 Бери квест — озвучка заговорит сама. 🎧
@@ -42,3 +31,14 @@
 ## Поддержать
 
 Новые эпохи и голоса: **https://boosty.to/wowvoice**
+
+## Доступные сборки
+
+| Эпоха | Клиент | Interface |
+|---|---|---|
+| Classic Era | 1.15.x | 11509 |
+| The Burning Crusade | 2.4.3 | 20400 |
+| Wrath of the Lich King | 3.3.5a | 30300 |
+| Mists of Pandaria | 5.4.8 | 50400 |
+
+> Midnight (retail) — в работе.
