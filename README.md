@@ -29,8 +29,13 @@
    - Lich King (WotLK) → `WowVoice-wotlk-3.3.5.zip`
    - Пандария (MoP) → скачай **оба**: в `part1of2.zip` — папки `WowVoice` + `WowVoiceSounds` (первая половина озвучки), в `part2of2.zip` — только `WowVoiceSounds` (вторая половина). Оба распаковываются в `Interface\AddOns`, папки `WowVoiceSounds` **сливаются в одну** (Windows спросит «Объединить?» — жми **Да**).
 2. **Распакуй.** Внутри — две папки: **WowVoice** и **WowVoiceSounds**.
-3. **Скопируй обе папки** в `…\World of Warcraft\…\Interface\AddOns\`.
-4. **Запусти игру.** На выборе персонажа → **AddOns** (внизу слева) → галочка **«Load out of date AddOns»** → включи оба аддона.
+3. **Скопируй обе папки** — `WowVoice` и `WowVoiceSounds` — в `…\World of Warcraft\…\Interface\AddOns\`.
+   ⚠️ Обе папки лежат **рядом**, прямо в `AddOns` (одна НЕ внутри другой!):
+   - `…\Interface\AddOns\WowVoice\`
+   - `…\Interface\AddOns\WowVoiceSounds\`
+4. **Запусти игру.** На экране выбора персонажа → **AddOns** (внизу слева):
+   - ⚠️ **ОБЯЗАТЕЛЬНО** поставь галочку **«Load out of date AddOns» / «Загружать устаревшие аддоны»** — **без неё озвучка НЕ включится**;
+   - убедись, что оба аддона включены.
 
 Бери квест — озвучка заговорит сама. 🎧
 
