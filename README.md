@@ -30,7 +30,7 @@
 
 ## Поддержать
 
-Новые эпохи и голоса: **https://boosty.to/wowvoice**
+Немножко задонатить — на Boosty: **https://boosty.to/wowvoice**
 
 ## Доступные сборки
 
